@@ -21,5 +21,8 @@ fruits.remove('grapes')
 print(fruits)
 
 '''insert into position'''
-fruits.insert(len(fruits), 'strawberry')
-print(fruits)
+# fruits.insert(len(fruits), 'strawberry')
+# print(fruits)
+
+'''remove with pop'''
+ 
